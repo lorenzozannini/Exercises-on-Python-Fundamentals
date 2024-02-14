@@ -10,4 +10,8 @@ r=6371
 ϕ2=radians(49.3)
 λ2=radians(-123.1)
 d=2*r*asin(sqrt(sin(1/2*(ϕ2-ϕ1))**2 + cos(ϕ1)*cos(ϕ2)*sin(1/2*(λ2-λ1))**2))
+<<<<<<< HEAD
 print(d)
+=======
+print(d)
+>>>>>>> fdaf7f8f317b59d36066d94ba4076c3f49e84619
