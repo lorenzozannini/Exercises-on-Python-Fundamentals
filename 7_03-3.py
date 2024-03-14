@@ -18,4 +18,3 @@ while True:
                 break
         else:
             numero=numero+c
-    
